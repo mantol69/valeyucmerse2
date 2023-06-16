@@ -1,0 +1,3 @@
+User-agent: *
+allow: 
+Sitemap:https://valley.ucmerced.edu/sitemap.xml
